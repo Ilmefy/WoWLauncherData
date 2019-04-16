@@ -1,0 +1,50 @@
+{"Servers":[
+    {
+        "Name":"Sunwell",
+        "Expansion":"WrathOfTheLichKing",
+        "Language":"Polish",
+        "Realmlist":"Set realmlist.logon.sunwell.pl",
+			"DiscordUrl":"https://google.pl",
+	"TeamSpeakUrl":"FCK",
+        "Realms":
+        [
+{
+    "Name":"Angrathar",
+    "Rates":"3",
+    "Type":"Normal",
+    "Language":"English",
+    "Population":"3000"
+},
+{
+    "Name":"Feronis",
+    "Rates":"1",
+    "Type":"PVP",
+    "Language":"Polish",
+    "Population":"50"
+}
+        ]    
+    },
+    {
+        "Name":"Warmane",
+        "Expansion":"WrathOfTheLichKing",
+        "Language":"English",
+        "Realmlist":"Set realmlist.logon.warmane.pl",
+        "Realms":
+        [
+{
+    "Name":"Icecrown",
+    "Rates":"7",
+    "Type":"Normal",
+    "Language":"English",
+    "Population":"12000"
+},
+{
+    "Name":"Lordaeron",
+    "Rates":"1",
+    "Type":"PVP",
+    "Language":"Polish",
+    "Population":"2000"
+}
+        ]    
+    }
+]}
